@@ -22,7 +22,6 @@ while Rounds <= 20:
             print("Het getal is lager.")
         if gegoktnummer < number:
             print("Het getal is hoger.")
-        print(number)
 
         Close = gegoktnummer in r
         if Close == True: #checkt of je getal in de buurt ligt#
@@ -48,5 +47,7 @@ while Rounds <= 20:
         break
 
 print("Uw eindscore is:", score, "punt(en)")
+
+
 
 
