@@ -1,5 +1,6 @@
 from math import trunc
 import random
+gb500dd = 10
 Rounds = 0
 Guesses = 0
 correctAnswer = False
